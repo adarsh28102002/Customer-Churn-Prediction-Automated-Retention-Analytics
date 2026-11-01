@@ -98,8 +98,7 @@ Import the cleaned `CustomerData` table into Power BI using Home → Get Data �
 
 Create each measure from Modeling → New Measure. The formulas below follow the project document. Use the same table name consistently in your Power BI model. The examples use `CustomerData`.
 
-<img width="1187" height="730" alt="image" src="https://github.com/user-attachments/assets/01664499-704e-42cb-8e20-47ce738b94d5" />
-
+<img width="1187" height="730" alt="image" src="https://github.com/user-attachments/assets/3a1ea38d-064b-4b0a-bd8e-4692c8023151" />
 
 ### 1. Total Customers
 
